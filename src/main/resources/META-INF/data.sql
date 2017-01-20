@@ -1,0 +1,1 @@
+insert into Employee (name, version, id) values ('Thiago', 0, call next value for hibernate_sequence);
